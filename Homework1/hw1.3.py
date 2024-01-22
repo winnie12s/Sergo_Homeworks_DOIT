@@ -1,0 +1,12 @@
+name = input("Enter your name: ")
+surname = input("Enter your surname: ")
+age = int(input("Enter your age: "))
+city = input("Enter your city: ")
+
+print("Name:", name)
+print()
+print("Surname:", surname)
+print()
+print("Age:", age)
+print()
+print("City:", city)
